@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>88956450087-8v9geamf9td6sr30u4pio01mv9jdnqt8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.88956450087-8v9geamf9td6sr30u4pio01mv9jdnqt8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALzRG4ehO2HH0Q8P3g4-2w1qK4YQKHSLw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>88956450087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.simpleFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>pickmeup-a9d1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pickmeup-a9d1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:88956450087:ios:5f2732ffe04f7a90b3e502</string>
+	<key>DATABASE_URL</key>
+	<string>https://pickmeup-a9d1b.firebaseio.com</string>
+</dict>
+</plist>
